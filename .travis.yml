@@ -1,4 +1,7 @@
 ---
+arch:
+- amd64
+- arm64
 sudo: false
 cache: bundler
 language: ruby
